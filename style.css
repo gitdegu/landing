@@ -91,7 +91,6 @@ body {
     color: white;
   }
 
-  // Cards media queries
 @media (max-width: 800px) {
   .cards {
     grid-template-columns: 1fr;
