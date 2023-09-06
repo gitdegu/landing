@@ -97,7 +97,7 @@ body {
   }
 }
   
-// Container media queries
+
 @media (min-width: 500px) {
   .container {
     width: 400px;
